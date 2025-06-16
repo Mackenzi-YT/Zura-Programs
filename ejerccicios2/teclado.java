@@ -1,4 +1,4 @@
-package ejerccicio2;
+package ejerccicios2;
 import java.util.*;
 
 public class teclado {
