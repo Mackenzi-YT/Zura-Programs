@@ -1,3 +1,4 @@
+package ejercicios1;
 public class Colores {
 
     public static void main(String[] args) {

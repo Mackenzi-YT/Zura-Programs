@@ -1,3 +1,4 @@
+package ejercicios1;
 import java.util.Scanner;
 
 public class Sumador {

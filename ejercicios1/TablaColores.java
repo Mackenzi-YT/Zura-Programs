@@ -1,3 +1,4 @@
+package ejercicios1;
 public class TablaColores {
     public static void main(String[] args) {
         System.out.println("╔-------------------------------------------------------------╗");
